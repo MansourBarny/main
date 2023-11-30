@@ -1,4 +1,4 @@
-L'objectif du projet est de créer un reposotry contenat 3 branches, une branche principale (main) et deux sous-branches afin de collaborer et de merger les 3 branches dans la branche principale.
+L'objectif du projet est de créer un repositrie contenat 3 branches, une branche principale (main) et deux sous-branches afin de collaborer et de merger les 3 branches dans la branche principale.
 
 Dans la première branche (main) on a rajouté la première méthode qui consiste à mettre en place Umap et kmeans  ; 
 
@@ -7,6 +7,28 @@ Pour ce qui est deuxième branche on a rajouté une autre méthode consistant à
 Les trois branches seront mergées dans la mbranche main par la suite.
 
 
+ Ci dessous vous trouverez les commandes git bash que l'on a mis en place pour ce faire : 
+
+
+![WhatsApp Image 2023-11-30 at 14 44 10_a3a00837](https://github.com/MansourBarny/main/assets/101475744/47e2d5e5-0a53-4be0-9467-4573e08a23e9)
+
+
+
+![WhatsApp Image 2023-11-30 at 14 44 19_e9bb1b3c](https://github.com/MansourBarny/main/assets/101475744/e2b2b3a8-ac2e-4909-935f-32da9f665c32)
+
+
+![WhatsApp Image 2023-11-30 at 14 44 33_b57fac2c](https://github.com/MansourBarny/main/assets/101475744/0bc954a3-c352-43b2-8116-ed61761bfa6b)
+
+
+![WhatsApp Image 2023-11-30 at 14 44 41_cfdc1a7f](https://github.com/MansourBarny/main/assets/101475744/8bb82a81-1d8f-4f5b-a5e7-0a9c1ac12472)
+
+
+![image](https://github.com/MansourBarny/main/assets/101475744/fe915b33-7e77-4a34-b344-ef4b7f63c1ca)
+
+ 
+
+
+![image](https://github.com/MansourBarny/main/assets/101475744/2a4b09bd-b1e4-4de6-b576-b6331bf016dc)
 
 
 
