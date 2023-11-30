@@ -9,7 +9,8 @@ Les trois branches seront mergées dans la mbranche main par la suite.
 
  Ci dessous vous trouverez les commandes git bash que l'on a mis en place pour ce faire : 
 
-
+ REDA
+ 
 ![WhatsApp Image 2023-11-30 at 14 44 10_a3a00837](https://github.com/MansourBarny/main/assets/101475744/47e2d5e5-0a53-4be0-9467-4573e08a23e9)
 
 
@@ -22,6 +23,7 @@ Les trois branches seront mergées dans la mbranche main par la suite.
 
 ![WhatsApp Image 2023-11-30 at 14 44 41_cfdc1a7f](https://github.com/MansourBarny/main/assets/101475744/8bb82a81-1d8f-4f5b-a5e7-0a9c1ac12472)
 
+HICHAM
 
 ![image](https://github.com/MansourBarny/main/assets/101475744/fe915b33-7e77-4a34-b344-ef4b7f63c1ca)
 
@@ -30,6 +32,7 @@ Les trois branches seront mergées dans la mbranche main par la suite.
 
 ![image](https://github.com/MansourBarny/main/assets/101475744/2a4b09bd-b1e4-4de6-b576-b6331bf016dc)
 
+MANSOUR
 
 
 
