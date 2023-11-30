@@ -1,5 +1,15 @@
 L'objectif du projet est de créer un reposotry contenat 3 branches, une branche principale (main) et deux sous-branches afin de collaborer et de merger les 3 branches dans la branche principale.
 
+Dans la première branche (main) on a rajouté la première méthode qui consiste à mettre en place Umap et kmeans  ; 
+
+Pour ce qui est deuxième branche on a rajouté une autre méthode consistant à mettre en oeuvre tsnet et kmeans, alors que la dérnière branche contient la méthode ACP et kmeans.
+
+Les trois branches seront mergées dans la mbranche main par la suite.
+
+
+
+
+
 
 
 
