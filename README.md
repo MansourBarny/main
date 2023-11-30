@@ -1,3 +1,23 @@
+L'objectif du projet est de créer un reposotry contenat 3 branches, une branche principale (main) et deux sous-branches afin de collaborer et de merger les 3 branches dans la branche principale.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Résultats du Tsnet :
 
 ![image](https://github.com/MansourBarny/main/assets/103676286/e845acc9-dbd9-41a5-986d-057e7cebb795)
