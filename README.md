@@ -8,6 +8,19 @@ Les trois branches seront mergées dans la mbranche main par la suite.
 
 
  Ci dessous vous trouverez les commandes git bash que l'on a mis en place pour ce faire : 
+![WhatsApp Image 2023-11-30 at 15 10 15_097ed770](https://github.com/MansourBarny/main/assets/101475744/15594117-c1ac-4f77-9af6-c191234a7fdd)
+
+![WhatsApp Image 2023-11-30 at 15 10 15_737afc07](https://github.com/MansourBarny/main/assets/101475744/4997da2f-9548-4518-884c-cdc64022da20)
+
+![WhatsApp Image 2023-11-30 at 15 10 15_96bdfb36](https://github.com/MansourBarny/main/assets/101475744/7f4fcfb1-5b49-4d55-9613-dd415925d9db)
+
+
+![WhatsApp Image 2023-11-30 at 15 10 16_4dee621e](https://github.com/MansourBarny/main/assets/101475744/2b1ec616-ab25-40e8-bc76-ccf54af8627c)
+
+
+![WhatsApp Image 2023-11-30 at 15 10 16_861b92cc](https://github.com/MansourBarny/main/assets/101475744/b8211f9c-74c4-41d9-9a47-c258fe91837d)
+
+
 
  REDA
  
