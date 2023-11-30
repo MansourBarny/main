@@ -1,0 +1,15 @@
+# Utilisation d'une image Python de base
+FROM python:3.9
+
+# Définir le répertoire de travail dans le conteneur
+WORKDIR /app
+
+# Copier les fichiers requis dans le conteneur
+COPY main.py /app/
+COPY requirements.txt /app/
+
+# Installer les dépendances Python
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Commande par défaut pour exécuter le fichier main.py
+CMD ["python", "main.py"]
